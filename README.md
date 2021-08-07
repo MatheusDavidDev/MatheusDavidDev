@@ -6,7 +6,7 @@
 
 <div>
     <a href = "https://www.linkedin.com/in/matheus-vinicius-david-455673144/"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" height="70"  />
-  <a href = "matheusviniciusdavid@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" height="70"  />
+  <a href = "mailto: matheusviniciusdavid@gmail.com"><img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" height="70"  />
 
 </div>
       
