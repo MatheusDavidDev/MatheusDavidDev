@@ -42,7 +42,7 @@
     
     ![Snake animation](https://github.com/MatheusDavidDev/MatheusDavidDev/blob/output/github-contribution-grid-snake.svg)
     
-     <img src="https://github.com/MatheusDavidDev/MatheusDavidDev/blob/output/github-contribution-grid-snake.svg" />
+    
 </div>
     
 
