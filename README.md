@@ -40,8 +40,6 @@
      <img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" /> &ensp;
      <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/59/Visual_Studio_Icon_2019.svg" height="59" />
    
-    
-     {/*[Snake animation](https://github.com/MatheusDavidDev/MatheusDavidDev/blob/output/github-contribution-grid-snake.svg)*/}
 </div>
     
 
