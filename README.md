@@ -1,6 +1,7 @@
 ### Hello World 👋🏿👋🏿
 
 - 🌱 Atualmente cursando Análise e Desenvolvimento de Sistemas na escola SENAI
+- 👩🏿‍💻 Em busca de novas oportunidades
 
 ## 📌 Contato
 
